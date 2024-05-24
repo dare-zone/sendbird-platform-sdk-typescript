@@ -62,8 +62,9 @@ You will need [Node.js](https://nodejs.org/en/download/) installed. This has bee
  1. Clone the repository
  2. cd to the `sendbird-platform-sdk-typescript` directory
  3. run `npm install`
- 4. cd to your project directory
- 5. run `npm install /path/to/sendbird-platform-sdk-typescript --save`
+ 4. run `npm run build`
+ 5. cd to your project directory
+ 6. run `npm install /path/to/sendbird-platform-sdk-typescript --save`
 
 
 # 🗃️ Documentation 
